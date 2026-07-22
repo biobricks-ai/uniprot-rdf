@@ -1,0 +1,224 @@
+{
+  "status": "remote-manifest-verified",
+  "profile": "reference-rdf-import",
+  "observed_at": "2026-07-22T16:37:23.181514+00:00",
+  "release": "2026_02",
+  "release_updated": "2026-03-25",
+  "manifest_url": "https://ftp.ebi.ac.uk/pub/databases/uniprot/current_release/rdf/RELEASE.metalink",
+  "manifest_bytes": 389868,
+  "selected_mode": "reviewed-plus-reference",
+  "selected_file_count": 41,
+  "selected_bytes": 1467340715,
+  "files_with_md5": 41,
+  "files": [
+    {
+      "name": "core.owl",
+      "size_bytes": 276091,
+      "md5": "1ba28fbe7d117969513530b98035821d"
+    },
+    {
+      "name": "diseases.rdf.xz",
+      "size_bytes": 731952,
+      "md5": "d9e6ecfd701e2d3a2876b99ace8f9275"
+    },
+    {
+      "name": "enzyme-hierarchy.rdf.xz",
+      "size_bytes": 61792,
+      "md5": "3edae0a7bb6cbe0acd80539c7b76f2e0"
+    },
+    {
+      "name": "enzyme.rdf.xz",
+      "size_bytes": 1163932,
+      "md5": "d4c22a28aa83fdbdba9af2265841e8f6"
+    },
+    {
+      "name": "keywords.rdf.xz",
+      "size_bytes": 137472,
+      "md5": "543d9c39515f6046eb17350503421d6f"
+    },
+    {
+      "name": "pathways.rdf.xz",
+      "size_bytes": 47616,
+      "md5": "3efabcb2badf7445007ad2e376c3eb55"
+    },
+    {
+      "name": "taxonomy.rdf.xz",
+      "size_bytes": 54764460,
+      "md5": "4ad8dcf5d18ada95b33b7efc54a5451a"
+    },
+    {
+      "name": "tissues.rdf.xz",
+      "size_bytes": 20744,
+      "md5": "cf89e8c46d1f5e72d62b3b8d099a3cfd"
+    },
+    {
+      "name": "uniprotkb_reviewed_archea_environmental_samples_48510_0.rdf.xz",
+      "size_bytes": 18048,
+      "md5": "665a62008ccee997035ad7f4a12250fd"
+    },
+    {
+      "name": "uniprotkb_reviewed_archea_methanobacteriati_3366610_0.rdf.xz",
+      "size_bytes": 22481280,
+      "md5": "b09c460ae62be6ab1756ee8086879330"
+    },
+    {
+      "name": "uniprotkb_reviewed_archea_nanobdellati_1783276_0.rdf.xz",
+      "size_bytes": 183208,
+      "md5": "4e066cbdd6888591796991eaf6ddc8b8"
+    },
+    {
+      "name": "uniprotkb_reviewed_archea_promethearchaeati_1935183_0.rdf.xz",
+      "size_bytes": 13304,
+      "md5": "03ff8005fe64258f2b7ed17ae9c4675b"
+    },
+    {
+      "name": "uniprotkb_reviewed_archea_thermoproteati_1783275_0.rdf.xz",
+      "size_bytes": 7399160,
+      "md5": "b1421be7282909e06e5f9f5efa4ccaa9"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_bacillati_1783272_0.rdf.xz",
+      "size_bytes": 159878424,
+      "md5": "b26f3a998c58e9d86832423e61e96aa5"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_bacteria_incertae_sedis_2323_0.rdf.xz",
+      "size_bytes": 9180,
+      "md5": "5b24a5aa56fb1f97e1a96164b213dba9"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_environmental_samples_48479_0.rdf.xz",
+      "size_bytes": 85976,
+      "md5": "1b53b2fd6a809e98a31c47f2be98b7c7"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_fusobacteriati_3384189_0.rdf.xz",
+      "size_bytes": 852988,
+      "md5": "83d4959389b7fb02b3fb1e07fb634049"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_proteobacteria_acidithiobacillia_1807140_0.rdf.xz",
+      "size_bytes": 742876,
+      "md5": "bc55e178633b676a2ac9c5a55d9d9317"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_proteobacteria_alphaproteobacteria_28211_0.rdf.xz",
+      "size_bytes": 45913340,
+      "md5": "48cc871fba54a805290ac39999892acd"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_proteobacteria_betaproteobacteria_28216_0.rdf.xz",
+      "size_bytes": 31452176,
+      "md5": "f5caa8d7034abbe2f9ccea89c247fb30"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_proteobacteria_gammaproteobacteria_1236_0.rdf.xz",
+      "size_bytes": 169327008,
+      "md5": "279b2f665b4c1a1abf50aef41c14ca24"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_proteobacteria_hydrogenophilia_2008785_0.rdf.xz",
+      "size_bytes": 12776,
+      "md5": "16aa1814aeece4605232a90d2d9c072d"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_proteobacteria_magnetococcia_3118669_0.rdf.xz",
+      "size_bytes": 532728,
+      "md5": "943f881c037e5dd5ee19af6b18876cb3"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_proteobacteria_pseudomonadota_incertae_sedis_32045_0.rdf.xz",
+      "size_bytes": 194536,
+      "md5": "19ed2ad521fe5759e5133e5b3f86f725"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_pseudomonadati_3379134_0.rdf.xz",
+      "size_bytes": 293864332,
+      "md5": "12aa00ea098c522809d4cda035deaeda"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_thermotogati_3384194_0.rdf.xz",
+      "size_bytes": 8722604,
+      "md5": "8d34a3e7b35ea1f8715005df91db1689"
+    },
+    {
+      "name": "uniprotkb_reviewed_bacteria_unclassified_bacteria_49928_0.rdf.xz",
+      "size_bytes": 17420,
+      "md5": "cb6062be9ee12fd7526778be3802e6e2"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_amoebozoa_554915_0.rdf.xz",
+      "size_bytes": 9999908,
+      "md5": "9657e4f6347f1ca996eb633d71f098e3"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_cryptophyceae_3027_0.rdf.xz",
+      "size_bytes": 328124,
+      "md5": "bb3f93dd30c799ded0b7ea3ec75c8691"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_discoba_2611352_0.rdf.xz",
+      "size_bytes": 2346164,
+      "md5": "f6be8cbd510057d66be3bb3ed0a107c6"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_glaucocystophyceae_38254_0.rdf.xz",
+      "size_bytes": 242652,
+      "md5": "5be1df6ce020edb8678ca3e0020a4952"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_haptista_2608109_0.rdf.xz",
+      "size_bytes": 193640,
+      "md5": "29693207f536402b178523936cb585fc"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_metamonada_2611341_0.rdf.xz",
+      "size_bytes": 361780,
+      "md5": "8919a5d1dfbbc46edc0c941812a34f5b"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_opisthokonta_choanoflagellata_28009_0.rdf.xz",
+      "size_bytes": 76344,
+      "md5": "9d5ba0b08911de58694c48f093bf4009"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_opisthokonta_filasterea_2687318_0.rdf.xz",
+      "size_bytes": 7380,
+      "md5": "77f6aeb18a0c7e9c161ada050e348848"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_opisthokonta_fungi_4751_0.rdf.xz",
+      "size_bytes": 94261456,
+      "md5": "c150ed1f40f24bb5b5b1b826c239831f"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_opisthokonta_metazoa_33208_0.rdf.xz",
+      "size_bytes": 424164820,
+      "md5": "51de80832b00091eff67f1de138200f2"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_rhodophyta_2763_0.rdf.xz",
+      "size_bytes": 1219228,
+      "md5": "407bf993480816386beafc951a1b4220"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_sar_2698737_0.rdf.xz",
+      "size_bytes": 6109636,
+      "md5": "0bde09a0b293398d5caeed571577effe"
+    },
+    {
+      "name": "uniprotkb_reviewed_eukaryota_viridiplantae_33090_0.rdf.xz",
+      "size_bytes": 93641516,
+      "md5": "6507f4dcd73a788da85e0932c1d69db4"
+    },
+    {
+      "name": "uniprotkb_reviewed_viruses_10239_0.rdf.xz",
+      "size_bytes": 35482644,
+      "md5": "f6210ba7753c475c4a1a780fd61a6f41"
+    }
+  ],
+  "limitations": [
+    "Remote metadata does not prove that brick artifacts are materialized.",
+    "Source bytes, converted statements, and complete subjects were not parsed."
+  ]
+}

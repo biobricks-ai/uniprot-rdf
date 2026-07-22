@@ -32,6 +32,12 @@ UNIPROT_FULL=1 uv run python stages/01_download.py
 dvc repro
 ```
 
+For a bounded check that does not download the multi-gigabyte release, run
+`python stages/00_probe_reference.py`. It records the official release version,
+selected file sizes, and source MD5 checksums in `reports/remote-manifest.json`.
+This establishes source discoverability only; it deliberately does not claim
+that the local RDF conversion is complete or healthy.
+
 ## Schema
 
 UniProt RDF uses the `up:` namespace (`http://purl.uniprot.org/core/`).
